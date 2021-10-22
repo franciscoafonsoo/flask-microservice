@@ -1,7 +1,1 @@
-flask==1.1.1
-celery==4.3.0
-python-dotenv==0.10.3
-gunicorn==19.9.0
-
-pyre-check==0.0.32
-pyre-extensions==0.0.16
+-r requirements/production.txt
